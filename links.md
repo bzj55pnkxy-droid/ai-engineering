@@ -7,6 +7,7 @@
 - [12 Factor Agents](https://github.com/humanlayer/12-factor-agents)
 - [hlyr.dev](https://www.hlyr.dev/)
 - [dexhorthy tweet thread](https://x.com/dexhorthy/status/1978676162495688719)
+- [Anthropic Skilljar Learning Platform](https://anthropic.skilljar.com/)
 
 ## Life & Work
 
